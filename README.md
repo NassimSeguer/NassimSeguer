@@ -39,5 +39,6 @@ J'aime comprendre comment les choses fonctionnent de bout en bout : de l'algorit
 | Projet | Description | Stack |
 |---|---|---|
 | 🎲 **[yams-cpp](https://github.com/NassimSeguer/yams-cpp)** | Yam's en console contre une IA qui triche : dés dessinés en Unicode, loi normale (Box-Muller), tests automatisés | C++ · CMake |
+| 🪐 **[saturne-cpp](https://github.com/NassimSeguer/saturne-cpp)** | Image de Saturne calculée pixel par pixel : éclairage de sphère, ombres par lancer de rayons, anneaux aux proportions réelles, écriture BMP | C++ · CMake |
 
-🚧 *Prochainement : un rendu de la planète Saturne et de ses anneaux en C++.*
+🚧 *Prochainement : un ordonnanceur de tâches en C (tri rapide, chemin critique).*
