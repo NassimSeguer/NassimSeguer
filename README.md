@@ -1,10 +1,10 @@
 # Salut, je suis Nassim 👋
 
 Étudiant en **Licence Informatique (L3) à l'UFR MIM de Metz**, je recherche un **stage en développement logiciel**.
-J'aime comprendre comment les choses fonctionnent de bout en bout : de l'algorithme jusqu'au résultat affiché.
+J'aime comprendre comment les choses fonctionnent de bout en bout : de l'algorithme jusqu'à l'interface web.
 
 - 🎯 **Recherche :** stage en développement (logiciel, web ou back-end), mobile géographiquement
-- 🔭 **En ce moment :** des projets en C++ inspirés de mes TP de Licence, documentés et testés
+- 🔭 **En ce moment :** des projets issus de ma Licence, en C++ et en développement web
 - 🤝 **Habitué au travail en équipe :** branches, merge requests, code reviews
 - 📫 **Me contacter :** [LinkedIn](https://linkedin.com/in/nassim-seguer)
 
@@ -39,5 +39,6 @@ J'aime comprendre comment les choses fonctionnent de bout en bout : de l'algorit
 |---|---|---|
 | 🎲 **[yams-cpp](https://github.com/NassimSeguer/yams-cpp)** | Yam's en console contre une IA qui triche : dés dessinés en Unicode, loi normale (Box-Muller), tests automatisés | C++ · CMake |
 | 🪐 **[saturne-cpp](https://github.com/NassimSeguer/saturne-cpp)** | Image de Saturne calculée pixel par pixel : éclairage de sphère, ombres par lancer de rayons, anneaux aux proportions réelles, écriture BMP | C++ · CMake |
+| 🚗 **[rentalcar-site](https://github.com/NassimSeguer/rentalcar-site)** | Site vitrine d'une agence fictive de location de voitures : grille tarifaire, réservation, carte de France cliquable | HTML · CSS · jQuery |
 
 🚧 *Prochainement : un ordonnanceur de tâches en C (tri rapide, chemin critique).*
