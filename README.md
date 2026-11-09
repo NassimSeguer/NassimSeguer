@@ -40,5 +40,4 @@ J'aime comprendre comment les choses fonctionnent de bout en bout : de l'algorit
 | 🎲 **[yams-cpp](https://github.com/NassimSeguer/yams-cpp)** | Yam's en console contre une IA qui triche : dés dessinés en Unicode, loi normale (Box-Muller), tests automatisés | C++ · CMake |
 | 🪐 **[saturne-cpp](https://github.com/NassimSeguer/saturne-cpp)** | Image de Saturne calculée pixel par pixel : éclairage de sphère, ombres par lancer de rayons, anneaux aux proportions réelles, écriture BMP | C++ · CMake |
 | 🚗 **[rentalcar-site](https://github.com/NassimSeguer/rentalcar-site)** | Site vitrine d'une agence fictive de location de voitures : grille tarifaire, réservation, carte de France cliquable · **[voir le site](https://nassimseguer.github.io/rentalcar-site/)** | HTML · CSS · jQuery |
-
-🚧 *Prochainement : un ordonnanceur de tâches en C (tri rapide, chemin critique).*
+| 📅 **[ordonnanceur-taches-c](https://github.com/NassimSeguer/ordonnanceur-taches-c)** | Projet de L1 en binôme : tri rapide sur liste chaînée, rangs, marges et chemin critique, mémoire gérée à la main | C · Make |
