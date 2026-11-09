@@ -1,10 +1,10 @@
 # Salut, je suis Nassim 👋
 
 Étudiant en **Licence Informatique (L3) à l'UFR MIM de Metz**, je recherche un **stage en développement logiciel**.
-J'aime comprendre comment les choses fonctionnent de bout en bout : de l'algorithme jusqu'à l'interface, qu'elle soit web ou 3D.
+J'aime comprendre comment les choses fonctionnent de bout en bout : de l'algorithme jusqu'au résultat affiché.
 
 - 🎯 **Recherche :** stage en développement (logiciel, web ou back-end), mobile géographiquement
-- 🔭 **En ce moment :** des projets personnels en Java, Python et C++
+- 🔭 **En ce moment :** des projets en C++ inspirés de mes TP de Licence, documentés et testés
 - 🤝 **Habitué au travail en équipe :** branches, merge requests, code reviews
 - 📫 **Me contacter :** [LinkedIn](https://linkedin.com/in/nassim-seguer)
 
